@@ -1,7 +1,7 @@
 {
-  "name": "mean-stack-login",
+  "name": "mern-stack-login",
   "version": "1.0.0",
-  "description": "uses the mean stack authorization",
+  "description": "uses the mern stack authorization",
   "type": "module",
   "main": "index.js",
   "scripts": {
