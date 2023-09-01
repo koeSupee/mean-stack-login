@@ -11,7 +11,7 @@ function Hero() {
         >
           <h1 className="text-center mb-4"> ระบบการยืนยันตัวตน</h1>
           <p className="text-center mb-4">
-            นี่คือแพลตฟอร์มที่ใช้เทคโนโลยีแบบ MEAN Stack ที่เก็บ JWT ใน
+            นี่คือแพลตฟอร์มที่ใช้เทคโนโลยีแบบ MERN Stack ที่เก็บ JWT ใน
             HTTP-Only Cookie และส่วนของหน้าบ้านใช้ Redux Toolkit และ React
             Bootstrap ในการพัฒนา เป็น Mini Project
             เพื่อใช้อ้างอิงและเอาไว้ต่อยอดในการพัฒนาโปรเจคต่อๆไป.
